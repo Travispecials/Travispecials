@@ -1,0 +1,41 @@
+#header {
+    text-shadow:0.5px 0.5px 2px #000;
+}
+#subheader{
+    text-shadow:2px 1px 2px #000;
+}
+#logo img {
+    background: none;
+    margin-top: 5px;
+}
+#abouttravis{
+    text-align:justify;
+    line-height:23px;
+    font-size: 16px;
+}
+#abouticon{
+    ALIGN:Right;
+}
+#p_resume{
+    text-align: left;
+}
+
+.travis {
+    min-width: 900px;   
+}
+.travis_2 {
+    max-height: 600px;
+    min-width: 600px;
+    margin: auto;
+    display: block;
+}
+.resume_p{
+    font-weight: 700;
+}
+.resume_div_bold{
+    text-align: left;
+}
+
+.item > img{
+    margin: auto; 
+}
